@@ -1,19 +1,15 @@
 # vue-todolist-new
 
-## Project setup
-```
-npm install
-```
+### Enviroment
+'' windows 10
 
-### Compiles and hot-reloads for development
+
+### Run Server
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Build
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
